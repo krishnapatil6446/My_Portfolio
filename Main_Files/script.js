@@ -128,7 +128,7 @@ function imageHover(){
 }
 loadingAnimation();
 
-cursorAnimation();
+// cursorAnimation();
 
 shreyAnimation();
 
