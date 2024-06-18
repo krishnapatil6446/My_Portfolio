@@ -120,8 +120,9 @@ body{
     gap: 4vw;
 }
 #nav-part2 h4{
-    font-size: 0.8vw;
+    font-size: 1.5vw;
     font-weight: 500;
+    z-index: 9999;
 }
 .hero{
     width: 72%;

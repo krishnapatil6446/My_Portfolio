@@ -128,10 +128,12 @@ function imageHover(){
 }
 loadingAnimation();
 
-cursorAnimation();
+// cursorAnimation();
 
 shreyAnimation();
 
 textAnimation();
 
 imageHover();
+
+
